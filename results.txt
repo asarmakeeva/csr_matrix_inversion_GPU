@@ -1,0 +1,151 @@
+check in JG 494 1666
+time = 1.33833
+check in JG 494 1666
+time = 1.34066
+check in JG 1138 4054
+time = 22.7611
+check in JG 1138 4054
+time = 23.0247
+check in JG 1473 34241
+time = 57.9772
+check in JG 1473 34241
+time = 58.8043
+check in JG 3948 117816
+time = 1185.67
+check in JG 3948 117816
+time = 1182.39
+check in JG 4884 290378
+time = 2061
+check in JG 4884 290378
+time = 2061.62
+check in JG 10974 428650
+time = 19539.1
+check in JG 10974 428650
+time = 19507.6
+17  11948 11948 80519
+!!11948   11948   80519   149090
+time = 29411.1
+check in JG 16129 253009
+time = 75472.2
+16  5688 5688 203238
+!!5688   5688   104463   203238
+read2
+check in JG 5688 203238
+time = 3171.58
+16  5688 5688 203238
+!!5688   5688   104463   203238
+check2
+check3
+check4
+read2
+check in JG 5688 203238
+time = 3168.17
+read3
+check9
+check8
+check20
+read4
+MATRIX COMPLITE
+check2
+17  9000 9000 1644345
+!!9000   9000   1644345   3279690
+check2
+check3
+check4
+read2
+check in JG 9000 3279690
+time = 12960.8
+read3
+check9
+check8
+check20
+read4
+check2
+17  9000 9000 1644345
+!!9000   9000   1644345   3279690
+check2
+check3
+check4
+read2
+check in JG 9000 3279690
+time = 12969.2
+read3
+check9
+check8
+check20
+read4
+MATRIX COMPLITE
+check2
+18  10848 10848 620313
+!!10848   10848   620313   1229778
+check2
+check3
+check4
+read2
+check in JG 10848 1229778
+time = 21663.5
+read3
+check9
+check8
+check20
+read4
+check2
+18  10848 10848 620313
+!!10848   10848   620313   1229778
+check2
+check3
+check4
+read2
+check in JG 10848 1229778
+time = 21678.4
+read3
+check9
+check8
+check20
+read4
+MATRIX COMPLITE
+check2
+17  17546 17546 69742
+!!17546   17546   69742   121938
+check2
+check3
+check4
+read2
+check in JG 17546 121938
+check2
+16  9303 9303 372483
+!!9303   9303   190893   372483
+check2
+check3
+check4
+read2
+check in JG 9303 372483
+check2
+16  9303 9303 372483
+!!9303   9303   190893   372483
+check2
+check3
+check4
+read2
+check in JG 9303 372483
+time = 11016.3
+read3
+check9
+check8
+check20
+read4
+check2
+16  9303 9303 372483
+!!9303   9303   190893   372483
+check2
+check3
+check4
+read2
+check in JG 9303 372483
+time = 11012.7
+read3
+check9
+check8
+check20
+read4
+MATRIX COMPLITE

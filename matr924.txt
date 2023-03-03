@@ -1,0 +1,15 @@
+nns@clx26:~/Inverse/SM_2$ ./run
+check2
+13  924 924 32274
+!!924   924   32274   63624
+check2
+check3
+check4
+read2
+check in JG 924 63624
+time =  13.4638
+read3
+check9
+check8
+check20
+read4
