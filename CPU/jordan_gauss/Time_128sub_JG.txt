@@ -1,0 +1,16 @@
+check2
+13  924 924 32274
+!!924   924   16599   32274
+check2
+check3
+check4
+read2
+check in JG 924 32274
+time = 4.50142
+privodim k treugolnomy vidy = 2.2246
+obrazuem nuli nad gl diog = 2.27681
+read3
+check9
+check8
+check20
+read4

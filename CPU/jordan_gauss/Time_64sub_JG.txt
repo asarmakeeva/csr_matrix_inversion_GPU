@@ -1,0 +1,16 @@
+check2
+15  2061 2061 77103
+!!2061   2061   39582   77103
+check2
+check3
+check4
+read2
+check in JG 2061 77103
+time = 60.5958
+privodim k treugolnomy vidy = 30.0996
+obrazuem nuli nad gl diog = 30.4962
+read3
+check9
+check8
+check20
+read4

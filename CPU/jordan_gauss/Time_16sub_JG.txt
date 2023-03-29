@@ -1,0 +1,16 @@
+check2
+16  9303 9303 372483
+!!9303   9303   190893   372483
+check2
+check3
+check4
+read2
+check in JG 9303 372483
+time = 5590.48
+privodim k treugolnomy vidy = 2789.94
+obrazuem nuli nad gl diog = 2800.54
+read3
+check9
+check8
+check20
+read4
